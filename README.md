@@ -12,4 +12,4 @@ Coders@CSM collaboratively built website
   Make sure you are in the coders-csm directory when you are using `git pull`
 - Fork the repository
 - Test code before making commits
-- Once tests are completed, do a pull request to the master coders-csm repo
+- Once tests are completed, do a pull request to the gh-pages coders-csm repo
