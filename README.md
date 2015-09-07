@@ -4,7 +4,7 @@ Coders@CSM collaboratively built website
 
 # How To Contribute
 - Make sure git is installed on your computer
-- Clone the repository from your fork in Terminal (OS X/LINUX) or Command Prompt (WINDOWS) for example:
+- Clone the repository in Terminal (OS X/LINUX) or Command Prompt (WINDOWS) for example:
   `git clone https://github.com/CodersCSM/coders-csm.git`
   Another way to keep your clone up to date is to use  `git pull` for example:
   `git pull https://github.com/CodersCSM/coders-csm.git`
